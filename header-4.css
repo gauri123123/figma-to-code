@@ -1,0 +1,173 @@
+.image-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .placeholder,
+  .rectangle11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 770px;
+    height: 434px;
+  }
+  .rectangle11 {
+    height: 100%;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    border-radius: var(--br-81xl);
+    background-color: var(--socials-youtube);
+  }
+  .icon1 {
+    position: absolute;
+    top: calc(50% - 7px);
+    left: calc(50% - 6px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+  }
+  .icon-fill1 {
+    position: absolute;
+    height: 16.13%;
+    width: 9.09%;
+    top: 41.94%;
+    right: 45.45%;
+    bottom: 41.94%;
+    left: 45.45%;
+  }
+  .video {
+    position: absolute;
+    top: 384px;
+    left: 315px;
+    width: 770px;
+    height: 434px;
+    font-family: var(--font-awesome);
+  }
+  .simple-and-beautiful {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    letter-spacing: -1px;
+    line-height: 70px;
+    display: inline-block;
+  }
+  .text6 {
+    position: absolute;
+    top: 155px;
+    left: 319px;
+    width: 766px;
+    height: 140px;
+    font-size: var(--heading-h2-header-size);
+    color: var(--colors-heading);
+  }
+  .fa-google-plus {
+    position: absolute;
+    top: 0;
+    left: 80.95%;
+  }
+  .fa-facebook-square,
+  .fa-twitter,
+  .socials {
+    position: absolute;
+    top: 0;
+    left: 42.06%;
+  }
+  .fa-twitter,
+  .socials {
+    left: 0;
+  }
+  .socials {
+    top: 2.6px;
+    left: 1046px;
+    width: 126px;
+    height: 18px;
+    font-family: var(--font-awesome);
+  }
+  .blog2,
+  .docs,
+  .downloads,
+  .features3,
+  .support {
+    position: absolute;
+    top: calc(50% - 13px);
+    left: 92%;
+    line-height: 26px;
+    font-weight: 500;
+  }
+  .docs,
+  .downloads,
+  .features3,
+  .support {
+    left: 69.56%;
+  }
+  .docs,
+  .downloads,
+  .features3 {
+    left: 52.89%;
+  }
+  .downloads,
+  .features3 {
+    left: 24%;
+  }
+  .features3 {
+    left: 0;
+  }
+  .menu4 {
+    position: absolute;
+    top: 0;
+    left: 141px;
+    width: 450px;
+    height: 26px;
+  }
+  .startup-36 {
+    position: absolute;
+    top: -6px;
+    left: 2px;
+    letter-spacing: -0.29px;
+  }
+  .black3 {
+    position: absolute;
+    height: 73.08%;
+    width: 9.47%;
+    top: 2.31%;
+    right: 90.53%;
+    bottom: 24.62%;
+    left: 0;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--colors-heading);
+  }
+  .header-menu6 {
+    position: absolute;
+    top: 50.4px;
+    left: 115px;
+    width: 1172px;
+    height: 26px;
+    text-align: left;
+    font-size: var(--text-article-size);
+    color: var(--colors-text);
+  }
+  .header-4 {
+    position: relative;
+    background-color: var(--colors-white);
+    width: 100%;
+    height: 920px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--buttons-big-size);
+    color: var(--colors-white);
+    font-family: var(--buttons-small);
+  }
+  

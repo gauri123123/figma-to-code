@@ -1,0 +1,253 @@
+.learn-more-about {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    line-height: 28px;
+    font-weight: 500;
+    display: inline-block;
+    mix-blend-mode: normal;
+  }
+  .description,
+  .mask-icon {
+    position: absolute;
+    top: 1.4px;
+    left: 190px;
+    width: 170px;
+    height: 84px;
+  }
+  .mask-icon {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .fa-play,
+  .preview {
+    position: absolute;
+    top: 40%;
+    left: 44.71%;
+  }
+  .preview {
+    top: 0;
+    left: 0;
+    width: 170px;
+    height: 110px;
+    text-align: center;
+    font-size: var(--buttons-big-size);
+    font-family: var(--font-awesome);
+  }
+  .description-parent,
+  .description1 {
+    position: absolute;
+    top: 0;
+    left: 400px;
+    width: 360px;
+    height: 110px;
+  }
+  .description1 {
+    top: 1.4px;
+    left: 190px;
+    width: 170px;
+    height: 112px;
+  }
+  .fa-play1 {
+    position: absolute;
+    top: 40.91%;
+    left: 45.29%;
+  }
+  .description-group,
+  .rectangle,
+  .videos {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 360px;
+    height: 113.4px;
+  }
+  .rectangle,
+  .videos {
+    top: 699px;
+    left: 315px;
+    width: 760px;
+  }
+  .rectangle {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-81xl);
+    background-color: var(--action-primary);
+  }
+  .sign-up {
+    position: absolute;
+    top: calc(50% - 13px);
+    left: calc(50% - 94px);
+    line-height: 26px;
+    font-weight: 500;
+  }
+  .big-fill {
+    position: absolute;
+    height: 7.69%;
+    width: 20%;
+    top: 58.35%;
+    right: 40%;
+    bottom: 33.96%;
+    left: 40%;
+    text-align: center;
+    font-size: var(--buttons-big-size);
+  }
+  .startup-framework-co {
+    position: absolute;
+    width: 76.26%;
+    top: 78.6%;
+    left: 11.81%;
+    line-height: 32px;
+    font-weight: 500;
+    display: inline-block;
+    mix-blend-mode: normal;
+  }
+  .a-high-quality-solut1 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    font-size: var(--heading-h2-header-size);
+    letter-spacing: -1px;
+    line-height: 70px;
+    display: inline-block;
+  }
+  .text {
+    position: absolute;
+    top: 156px;
+    left: 265px;
+    width: 872px;
+    height: 299px;
+    text-align: center;
+    font-size: var(--heading-h5-lead-size);
+  }
+  .rectangle1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-81xl);
+    border: 2px solid var(--colors-white);
+    box-sizing: border-box;
+    opacity: 0.3;
+  }
+  .sign-up1 {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: calc(50% - 28px);
+    line-height: 22px;
+    font-weight: 500;
+  }
+  .small-white-outline {
+    position: absolute;
+    height: 100%;
+    width: 38.84%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 61.16%;
+    text-align: center;
+  }
+  .login {
+    top: calc(50% - 11px);
+    left: 31.4%;
+    line-height: 22px;
+    font-weight: 500;
+  }
+  .help,
+  .login,
+  .sign-in {
+    position: absolute;
+  }
+  .help {
+    top: calc(50% - 11px);
+    left: 0;
+    line-height: 22px;
+    font-weight: 500;
+  }
+  .sign-in {
+    top: 0;
+    left: 729px;
+    width: 242px;
+    height: 40px;
+  }
+  .startup-3 {
+    position: absolute;
+    top: -6px;
+    left: 2px;
+    letter-spacing: -0.29px;
+  }
+  .white,
+  .white1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .white {
+    height: 47.5%;
+    width: 11.43%;
+    top: 15%;
+    right: 88.57%;
+    bottom: 37.5%;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+  }
+  .community,
+  .pricing {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: 36.5%;
+    line-height: 22px;
+    font-weight: 500;
+  }
+  .community {
+    left: 67.15%;
+  }
+  .header-menu,
+  .menu {
+    position: absolute;
+    top: 9px;
+    left: 141px;
+    width: 274px;
+    height: 22px;
+  }
+  .header-menu {
+    top: 33px;
+    left: 214px;
+    width: 971px;
+    height: 40px;
+    font-size: var(--buttons-small-size);
+  }
+  .header-10 {
+    position: relative;
+    background-color: var(--background-dark);
+    width: 100%;
+    height: 910px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--text-article-size);
+    color: var(--colors-white);
+    font-family: var(--buttons-small);
+  }
+  
